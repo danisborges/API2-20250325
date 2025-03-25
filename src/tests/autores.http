@@ -1,0 +1,10 @@
+@url = https://8080-danisborges-api22025032-63bd6so56gw.ws-us118.gitpod.io
+
+###
+POST {{url}}/autores
+Content-Type: application/json
+
+{
+    "nome" : "JRR Tolkien"
+}
+
